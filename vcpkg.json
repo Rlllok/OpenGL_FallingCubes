@@ -1,0 +1,10 @@
+{
+  "name": "OpenGLCubes",
+  "version-string": "version",
+  "dependencies": [
+    "glad",
+    "glfw3",
+    "bullet3",
+    "glm"
+  ]
+}

@@ -1,0 +1,6 @@
+.x64
+lib
+include
+OpenGLFinal.vcxproj
+OpenGLFinal.vcxproj.filters
+OpenGLFinal.vcxproj.user
